@@ -3,7 +3,7 @@
 The entry file is app.js
 
 ## Download & Run: 
-- > git clone t
+- > git clone [a relative link]
 - > npm i && npm start
 
 ## Q1: Get Top Post API Endpoint
