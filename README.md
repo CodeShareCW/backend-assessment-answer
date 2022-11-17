@@ -3,7 +3,7 @@
 The entry file is app.js
 
 ## Download & Run: 
-- > git clone [https://github.com/CodeShareCW/backend-assessment-answer](/)
+- > git clone [https://github.com/CodeShareCW/backend-assessment-answer](https://github.com/CodeShareCW/backend-assessment-answer)
 - > npm i && npm start
 
 ## Q1: Get Top Post API Endpoint
