@@ -8,11 +8,13 @@ The entry file is app.js
 
 ## Q1: Get Top Post API Endpoint
 - Endpoint Url: **/api/v1/post/get_top_post**
+- Source code: ./api/post/get_top_post.js
 - Output
 ![Top Post](tests/browser/post/output/get_top_post.PNG "Top Post")
 
 ## Q2: Search Comment API Endpoint
 - Endpoint Url: **/api/v1/post/search_comment**
+- Source code: ./api/post/search_comment.js
  ```
 query params:
     keyword: required
